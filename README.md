@@ -8,3 +8,5 @@ Instructor： 孫民(SUN, MIN)
 Course Website：[EE 6485 Computer Vision 計算機視覺](https://aliensunmin.github.io/teaching/cv2023/index.html)
 
 大家來抄學長的作業好歹留個Star，謝謝。
+
+但不一定保證對喔，我先聲明。
