@@ -9,4 +9,4 @@ Course Website：[EE 6485 Computer Vision 計算機視覺](https://aliensunmin.g
 
 大家來抄學長的作業好歹留個Star，謝謝。
 
-但不一定保證對喔，我先聲明。
+但不保證一定對喔，我先聲明。
